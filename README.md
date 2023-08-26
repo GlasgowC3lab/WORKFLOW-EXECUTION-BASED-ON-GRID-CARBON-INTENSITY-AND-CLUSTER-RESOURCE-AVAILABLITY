@@ -2,7 +2,7 @@
 
 ## Project Introduction
 This project aims to study how to optimize carbon emissions in cloud data centers using resource availability estimation and carbon awareness strategies. By analyzing cluster resource data, carbon intensity data, and workflow data, we explored how to reduce carbon emissions, optimize task scheduling, and improve resource utilization efficiency.
-![Image Description](path/to/image/file.png)
+![Image Description](framework.png)
 ## Contents
 - availability_resources_estimation_1.ipynb: Jupyter Notebook comparing resource availability estimation with carbon intensity data using forecast data.
 - availability_resources_estimation_2.ipynb: Jupyter Notebook comparing resource availability estimation with carbon intensity data using actual data.
